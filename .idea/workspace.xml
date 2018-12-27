@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b018ed89-d680-476a-8a4f-160384e28cd3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/pip-18.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/pip-18.1.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/setuptools-40.6.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/setuptools-40.6.3.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/wheel-0.32.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/wheel-0.32.3.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/easy_install-3.6.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/easy_install-3.6.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/easy_install.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/pip3.6.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/pip3.6.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/pip3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/wheel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/wheel.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="b018ed89-d680-476a-8a4f-160384e28cd3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bestoon/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1853">
+            <state>
               <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
             </state>
           </provider>
@@ -250,7 +236,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bestoon/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1853">
+        <state>
           <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
         </state>
       </provider>
@@ -274,6 +260,9 @@
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirement.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/admin.py">
       <provider selected="true" editor-type-id="text-editor">
