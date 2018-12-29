@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b018ed89-d680-476a-8a4f-160384e28cd3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pkg_resources/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pkg_resources/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/setuptools/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/setuptools/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/django/utils/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/django/utils/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/pip/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/pip/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/pkg_resources/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/pkg_resources/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/site-packages/setuptools/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/setuptools/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/django/utils/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/django/utils/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/pip/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/pip/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/pkg_resources/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/pkg_resources/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/setuptools/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/Lib/site-packages/setuptools/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bestoon/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bestoon/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bestoon/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+            <state relative-caret-position="305">
+              <caret line="109" column="17" lean-forward="true" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -44,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state relative-caret-position="374">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -53,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            <state relative-caret-position="238">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -101,10 +86,10 @@
       <list>
         <option value="$PROJECT_DIR$/web.py" />
         <option value="$PROJECT_DIR$/manage.py" />
-        <option value="$PROJECT_DIR$/bestoon/settings.py" />
         <option value="$PROJECT_DIR$/web/admin.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/web/models.py" />
+        <option value="$PROJECT_DIR$/bestoon/settings.py" />
       </list>
     </option>
   </component>
@@ -270,27 +255,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bestoon/settings.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state relative-caret-position="374">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/bestoon/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        <state relative-caret-position="305">
+          <caret line="109" column="17" lean-forward="true" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
         </state>
       </provider>
     </entry>
