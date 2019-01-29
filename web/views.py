@@ -1,13 +1,14 @@
 import datetime
-import  requests
+
 import random
 import string
 import time
 from json import JSONEncoder
-from django import settings
+
 
 
 from django.contrib.auth.hashers import make_password
+from django.contrib.sites import requests
 from django.http import JsonResponse
 from bestoon import settings
 from web.models import User, Token, Income, Expense, Passwordresetcodes
@@ -96,7 +97,6 @@ def register(request):
                                  text_body = "برای فعال سازی ایمیلی بستون خود روی لینک روبرو کلیک کنید: http://bestoon.ir/accounts/register/?email={}&code={}".format(email, code),
                                  tag = "account request")
                 message.send()
-                logger.debug("def register email for http://todoer.ir/accounts/register/?email={}&code={}".format(email, code))
                 context = {'message': 'ایمیلی حاوی لینک فعال سازی اکانت به شما فرستاده شده، لطفا پس از چک کردن ایمیل، روی لینک کلیک کنید.'}
                 return render(request, 'login.html', context)
         else:
@@ -120,6 +120,10 @@ def register(request):
     else:
         context = {'message': ''}
         return render(request, 'register.html', context)
+
+def index(request):
+    context=()
+    return render(request,'index.html',context)
 
 @csrf_exempt
 def submit_income(request):
